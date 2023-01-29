@@ -1,3 +1,2 @@
 # MindBots
-Hey Guys, This is still in intitial stage.
-Feel free to add any folders/files
+Integrating data catalogs with content search technologies for the course. 
