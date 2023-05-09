@@ -14,4 +14,6 @@ With the advent of big data, the demand for data management and exploration has 
 
 Schematic Diagram:
 
+![Cropped Image](https://github.com/svemula4/MindBots/assets/123584293/1c36eba3-04c2-406e-bd06-9e50949dc33d)
+
 
