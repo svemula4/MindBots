@@ -16,6 +16,10 @@ Schematic Diagram:
 
 ![Cropped Image](https://github.com/svemula4/MindBots/assets/123584293/1c36eba3-04c2-406e-bd06-9e50949dc33d)
 
+
+Steps to setup, install and integrate OpenMetadata with Elastic Search 
+
+
 Tools Used:
 1. OpenMetadata
  https://docs.open-metadata.org/v1.0.0/deployment/bare-metal
@@ -25,3 +29,5 @@ Tools Used:
  https://www.elastic.co
 4. Apache Airflow
  http://airflow.apache.org
+ 
+ 
