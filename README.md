@@ -5,7 +5,7 @@ Team Members:
 
 Product Owner: Prakuti Kothari
 Scrum Master: Ravinder Singh
-Developers: Sahiti Oddiraju, Sachin Mote, Bhavana Machaa, Saiprem Vemulapalli
+Developers: Sahiti Oddiraju, Sachin Mote, Bhavana Macha, Saiprem Vemulapalli
 
 
 Abstract: 
