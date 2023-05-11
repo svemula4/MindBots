@@ -1,10 +1,10 @@
 # MindBots
-Integrating data catalogs with content search technologies. 
+Integrating Data Catalogs with Content Search Technologies. 
 
 Team Members:
 
 Product Owner: Prakuti Kothari
-Scrum Master: Ravinder Singh 
+Scrum Master: Ravinder Singh
 Developers: Sahiti Oddiraju, Sachin Mote, Bhavana Machaa, Saiprem Vemulapalli
 
 
